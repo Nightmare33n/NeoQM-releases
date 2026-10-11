@@ -1,4 +1,5 @@
 # NeoQM — Releases
+<img width="1193" height="781" alt="image" src="https://github.com/user-attachments/assets/f7520db0-3b1a-4dec-94ba-13deda056e4b" />
 
 Installers and update manifests for **NeoQM**, a modern linear programming tool (graphical and simplex methods).
 
